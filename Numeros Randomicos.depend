@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1617150899 source:c:\meus projetos\linguagem c\numeros randomicos\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
