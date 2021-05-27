@@ -1,10 +1,11 @@
-git #include <stdio.h>
+#include <stdio.h>
 #include <stdlib.h> //biblioteca necessária
 #include <time.h> //biblioteca necessária
 
 
 
    int randomiza (){
+     
     return rand ()%1000; // retorna o resto da divisão por 1000, portando , 0 a 1000. Pode alterar para aumentar a quantidade de numeros.
    }
 
